@@ -1,0 +1,12 @@
+{
+  "duplicate_primary_keys": {
+    "customers": 0,
+    "products": 0,
+    "orders": 0,
+    "order_items": 0,
+    "payments": 0
+  },
+  "orphan_customer_ids": 0,
+  "orphan_order_ids": 0,
+  "orphan_product_ids": 0
+}
