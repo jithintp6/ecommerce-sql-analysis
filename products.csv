@@ -1,0 +1,25 @@
+product_id,product_name,category,unit_price,unit_cost
+1,Wireless Mouse,Electronics,10578.0,7342.36
+2,Keyboard,Electronics,5860.0,4366.86
+3,Headphones,Electronics,6302.0,4832.1
+4,USB Hub,Electronics,8718.0,6115.87
+5,Power Bank,Electronics,5663.0,2611.08
+6,Smart Watch,Electronics,10434.0,7133.4
+7,Mixer Grinder,Home & Kitchen,9758.0,6041.35
+8,Water Bottle,Home & Kitchen,5421.0,3553.34
+9,Storage Set,Home & Kitchen,5147.0,3986.08
+10,Desk Lamp,Home & Kitchen,11645.0,6099.21
+11,Cookware Set,Home & Kitchen,9902.0,6832.32
+12,T-Shirt,Fashion,8871.0,4832.37
+13,Sneakers,Fashion,305.0,132.6
+14,Backpack,Fashion,1705.0,1193.23
+15,Jacket,Fashion,11568.0,8962.82
+16,Jeans,Fashion,6003.0,3526.1
+17,Data Analytics Book,Books,4071.0,2313.01
+18,Fiction Novel,Books,11740.0,8285.22
+19,Business Book,Books,7885.0,4888.43
+20,Science Book,Books,1246.0,883.09
+21,Yoga Mat,Sports,3376.0,2417.65
+22,Running Bottle,Sports,11115.0,4816.23
+23,Dumbbell Set,Sports,896.0,392.03
+24,Cricket Kit,Sports,4629.0,2126.29
